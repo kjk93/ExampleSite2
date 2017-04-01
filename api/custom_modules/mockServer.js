@@ -13,7 +13,7 @@ localMockData.get('/stats/soccer/:league/teams', function(req, res){
 });
 
 localMockData.get('/stats/soccer/:league/teams/:team', function(req, res){
-  res.json(mock.getAllTeams(req.params.league));
+  res.json(mock.getTeam(req.params.league, req.params.team));
 });
 
 module.exports.start = () => {
