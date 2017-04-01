@@ -1,0 +1,409 @@
+{
+    "status": "OK",
+    "recordCount": 20,
+    "startTimestamp": "2017-03-31T01:46:27.8734369Z",
+    "endTimestamp": "2017-03-31T01:46:27.889062Z",
+    "timeTaken": 0.0156251,
+    "apiResults": [{
+        "sportId": 8,
+        "name": "Soccer",
+        "league": {
+            "leagueId": 39,
+            "name": "English Premier League",
+            "abbreviation": "EPL",
+            "displayName": "English Premier League",
+            "season": {
+                "season": 2016,
+                "name": "2016 EPL Season",
+                "isActive": true,
+                "conferences": [{
+                    "conferenceId": null,
+                    "divisions": [{
+                        "divisionId": null,
+                        "teams": [{
+                            "venue": {
+                                "venueId": 5570,
+                                "name": "Emirates Stadium",
+                                "city": "London",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6145,
+                            "location": "Arsenal",
+                            "abbreviation": "ARS",
+                            "displayName": "Arsenal",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6143,
+                                "name": "Vitality Stadium",
+                                "city": "Bournemouth",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 8260,
+                            "location": "Bournemouth",
+                            "abbreviation": "BOU",
+                            "displayName": "Bournemouth",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6118,
+                                "name": "Turf Moor",
+                                "city": "Burnley"
+                            },
+                            "teamId": 8240,
+                            "location": "Burnley",
+                            "abbreviation": "BUR",
+                            "displayName": "Burnley",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5197,
+                                "name": "Stamford Bridge",
+                                "city": "London",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6159,
+                            "location": "Chelsea",
+                            "abbreviation": "CHE",
+                            "displayName": "Chelsea",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6122,
+                                "name": "Selhurst Park",
+                                "city": "London"
+                            },
+                            "teamId": 7131,
+                            "location": "Crystal Palace",
+                            "abbreviation": "CRY",
+                            "displayName": "Crystal Palace",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5200,
+                                "name": "Goodison Park",
+                                "city": "Liverpool",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6149,
+                            "location": "Everton",
+                            "abbreviation": "EVE",
+                            "displayName": "Everton",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6123,
+                                "name": "KCOM Stadium",
+                                "city": "Kingston Upon Hull",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 7145,
+                            "location": "Hull City",
+                            "abbreviation": "HUL",
+                            "displayName": "Hull City",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5438,
+                                "name": "King Power Stadium",
+                                "city": "Leicester",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 7127,
+                            "location": "Leicester City",
+                            "abbreviation": "LEI",
+                            "displayName": "Leicester City",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5204,
+                                "name": "Anfield",
+                                "city": "Liverpool",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6140,
+                            "location": "Liverpool",
+                            "abbreviation": "LIV",
+                            "displayName": "Liverpool",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5435,
+                                "name": "Etihad Stadium",
+                                "city": "Manchester",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6158,
+                            "location": "Manchester City",
+                            "abbreviation": "MCI",
+                            "displayName": "Manchester City",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5206,
+                                "name": "Old Trafford",
+                                "city": "Manchester",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6157,
+                            "location": "Manchester United",
+                            "abbreviation": "MUN",
+                            "displayName": "Manchester United",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5207,
+                                "name": "Riverside Stadium",
+                                "city": "Middlesbrough"
+                            },
+                            "teamId": 6146,
+                            "location": "Middlesbrough",
+                            "abbreviation": "MID",
+                            "displayName": "Middlesbrough",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5246,
+                                "name": "St. Mary's Stadium",
+                                "city": "Southampton"
+                            },
+                            "teamId": 7128,
+                            "location": "Southampton",
+                            "abbreviation": "SOU",
+                            "displayName": "Southampton",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6128,
+                                "name": "bet365 Stadium",
+                                "city": "Stoke-on-Trent",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 8246,
+                            "location": "Stoke City",
+                            "abbreviation": "STK",
+                            "displayName": "Stoke City",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5210,
+                                "name": "Stadium Of Light",
+                                "city": "Sunderland",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 7129,
+                            "location": "Sunderland",
+                            "abbreviation": "SUN",
+                            "displayName": "Sunderland",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 6132,
+                                "name": "Liberty Stadium",
+                                "city": "Swansea",
+                                "country": {
+                                    "countryId": 43,
+                                    "name": "Wales",
+                                    "abbreviation": "WAL"
+                                }
+                            },
+                            "teamId": 8248,
+                            "location": "Swansea City",
+                            "abbreviation": "SWA",
+                            "displayName": "Swansea City",
+                            "country": {
+                                "countryId": 43,
+                                "name": "Wales",
+                                "abbreviation": "WAL"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5211,
+                                "name": "White Hart Lane",
+                                "city": "London",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6154,
+                            "location": "Tottenham Hotspur",
+                            "abbreviation": "TOT",
+                            "displayName": "Tottenham Hotspur",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5569,
+                                "name": "Vicarage Road",
+                                "city": "Watford",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6148,
+                            "location": "Watford",
+                            "abbreviation": "WAT",
+                            "displayName": "Watford",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 5383,
+                                "name": "The Hawthorns",
+                                "city": "West Bromwich",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 7139,
+                            "location": "West Bromwich Albion",
+                            "abbreviation": "WBA",
+                            "displayName": "West Bromwich Albion",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }, {
+                            "venue": {
+                                "venueId": 14307,
+                                "name": "Olympic Stadium",
+                                "city": "London",
+                                "country": {
+                                    "countryId": 20,
+                                    "name": "England",
+                                    "abbreviation": "ENG"
+                                }
+                            },
+                            "teamId": 6143,
+                            "location": "West Ham United",
+                            "abbreviation": "WHU",
+                            "displayName": "West Ham United",
+                            "country": {
+                                "countryId": 20,
+                                "name": "England",
+                                "abbreviation": "ENG"
+                            }
+                        }]
+                    }]
+                }]
+            }
+        }
+    }]
+}

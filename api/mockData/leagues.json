@@ -1,0 +1,2810 @@
+{
+    "status": "OK",
+    "recordCount": 254,
+    "startTimestamp": "2017-03-30T23:01:23.8833794Z",
+    "endTimestamp": "2017-03-30T23:01:23.8990043Z",
+    "timeTaken": 0.015624899999999999,
+    "apiResults": [{
+        "sportId": 8,
+        "name": "Soccer",
+        "uriPaths": [{
+            "pathSequence": 1,
+            "path": "soccer"
+        }],
+        "leagues": [{
+            "league": {
+                "leagueId": 21,
+                "name": "Major League Soccer",
+                "abbreviation": "MLS",
+                "displayName": "Major League Soccer",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mls"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 22,
+                "name": "Liga MX",
+                "abbreviation": "LMX",
+                "displayName": "Liga MX",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "lmx"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 39,
+                "name": "English Premier League",
+                "abbreviation": "EPL",
+                "displayName": "English Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "epl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 48,
+                "name": "MISL",
+                "abbreviation": "MISL",
+                "displayName": "MISL",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "misl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 49,
+                "name": "Germany Bundesliga",
+                "abbreviation": "BUND",
+                "displayName": "Germany Bundesliga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bund"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 50,
+                "name": "England Championship",
+                "abbreviation": "ENG CH",
+                "displayName": "England Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "eng_ch"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 51,
+                "name": "Italy Serie A",
+                "abbreviation": "Serie A",
+                "displayName": "Italy Serie A",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "seriea"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 52,
+                "name": "Italy Serie B",
+                "abbreviation": "Serie B",
+                "displayName": "Italy Serie B",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "serieb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 53,
+                "name": "Germany Bundesliga 2",
+                "abbreviation": "Bundes 2",
+                "displayName": "Germany Bundesliga 2",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bund2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 54,
+                "name": "Spain Liga Primera",
+                "abbreviation": "La Liga",
+                "displayName": "Spain Liga Primera",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "liga"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 55,
+                "name": "Spain Liga Segunda",
+                "abbreviation": "Liga2",
+                "displayName": "Spain Liga Segunda",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "liga2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 56,
+                "name": "Argentina Primera A",
+                "abbreviation": "Argentina",
+                "displayName": "Argentina Primera A",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "arge"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 57,
+                "name": "Chile Primera Division",
+                "abbreviation": "Chile",
+                "displayName": "Chile Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "chil"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 58,
+                "name": "UEFA Champions League",
+                "abbreviation": "CHLG",
+                "displayName": "UEFA Champions League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "chlg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 59,
+                "name": "Ascenso MX",
+                "abbreviation": "AMX",
+                "displayName": "Ascenso MX",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fmf1a"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 60,
+                "name": "Brazil Serie A",
+                "abbreviation": "Brazil",
+                "displayName": "Brazil Serie A",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "braz"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 61,
+                "name": "WUSA",
+                "abbreviation": "WUSA",
+                "displayName": "WUSA",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wusa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 62,
+                "name": "FIFA World Cup",
+                "abbreviation": "NATL",
+                "displayName": "FIFA World Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "natl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 63,
+                "name": "FIFA Womens World Cup",
+                "abbreviation": "WWC",
+                "displayName": "FIFA Womens World Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wwc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 64,
+                "name": "Copa Libertadores",
+                "abbreviation": "LIB",
+                "displayName": "Copa Libertadores",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "lib"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 65,
+                "name": "Womens Professional Soccer",
+                "abbreviation": "WPS",
+                "displayName": "Womens Professional Soccer",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wps"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 66,
+                "name": "CAF Champions League",
+                "abbreviation": "CAF Chmps",
+                "displayName": "CAF Champions League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "caf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 67,
+                "name": "AFC Champions League",
+                "abbreviation": "AFC Chmps",
+                "displayName": "AFC Champions League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 68,
+                "name": "France Ligue 1",
+                "abbreviation": "France",
+                "displayName": "France Ligue 1",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fran"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 69,
+                "name": "Greece Super League",
+                "abbreviation": "Greece",
+                "displayName": "Greece Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gree"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 70,
+                "name": "Dutch Eredivisie",
+                "abbreviation": "Holland",
+                "displayName": "Dutch Eredivisie",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "holl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 71,
+                "name": "Portugal Liga",
+                "abbreviation": "Portugal",
+                "displayName": "Portugal Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "port"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 72,
+                "name": "Scotland Premiership",
+                "abbreviation": "Scotland",
+                "displayName": "Scotland Premiership",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 73,
+                "name": "Turkey Super Lig",
+                "abbreviation": "Turkey",
+                "displayName": "Turkey Super Lig",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "turk"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 74,
+                "name": "Belgium Pro League",
+                "abbreviation": "Belgium",
+                "displayName": "Belgium Pro League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "belg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 75,
+                "name": "Korea K-League",
+                "abbreviation": "K-League",
+                "displayName": "Korea K-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "klg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 76,
+                "name": "Japan J-League",
+                "abbreviation": "J-League",
+                "displayName": "Japan J-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "jlg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 77,
+                "name": "Chinese Super League",
+                "abbreviation": "China 1A",
+                "displayName": "Chinese Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "chin"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 78,
+                "name": "Pan-Pacific Championship",
+                "abbreviation": "PPC",
+                "displayName": "Pan-Pacific Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "copa_xtra"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 79,
+                "name": "Copa America",
+                "abbreviation": "AMER",
+                "displayName": "Copa America",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "copa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 80,
+                "name": "European Championships",
+                "abbreviation": "EURO",
+                "displayName": "European Championships",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "euro"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 81,
+                "name": "Switzerland Challenge League",
+                "abbreviation": "Swiss 2",
+                "displayName": "Switzerland Challenge League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "swit2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 82,
+                "name": "Albania Super League",
+                "abbreviation": "ALB",
+                "displayName": "Albania Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "alb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 83,
+                "name": "Colombia Primera Liga",
+                "abbreviation": "Colombia",
+                "displayName": "Colombia Primera Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "col_copa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 84,
+                "name": "Dutch Eerste Divisie",
+                "abbreviation": "Holland 2",
+                "displayName": "Dutch Eerste Divisie",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "holl2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 85,
+                "name": "Italy Serie C2",
+                "abbreviation": "IT4",
+                "displayName": "Italy Serie C2",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "seriec2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 86,
+                "name": "France Championnat National",
+                "abbreviation": "Ligue 3",
+                "displayName": "France Championnat National",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fran3"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 87,
+                "name": "Slovenia Prva Liga",
+                "abbreviation": "Slovenia",
+                "displayName": "Slovenia Prva Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "slove"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 88,
+                "name": "England League Two",
+                "abbreviation": "ENG L2",
+                "displayName": "England League Two",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "engd2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 89,
+                "name": "Guatemala Liga Nacional",
+                "abbreviation": "GUA",
+                "displayName": "Guatemala Liga Nacional",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gua"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 90,
+                "name": "Cyprus First Division",
+                "abbreviation": "CYP",
+                "displayName": "Cyprus First Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cyp"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 91,
+                "name": "Cote de Ivorie",
+                "abbreviation": "CdI",
+                "displayName": "Cote de Ivorie",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cdi"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 92,
+                "name": "Argentina Primera B Nacional",
+                "abbreviation": "Arg. B",
+                "displayName": "Argentina Primera B Nacional",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "argeb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 93,
+                "name": "Australia A-League",
+                "abbreviation": "Australia",
+                "displayName": "Australia A-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "aust"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 94,
+                "name": "Iran Pro League",
+                "abbreviation": "Iran",
+                "displayName": "Iran Pro League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "iran"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 95,
+                "name": "England League One",
+                "abbreviation": "ENG L1",
+                "displayName": "England League One",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "engd1"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 96,
+                "name": "Wales Premier League",
+                "abbreviation": "Wales",
+                "displayName": "Wales Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wale"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 97,
+                "name": "France Ligue 2",
+                "abbreviation": "Ligue 2",
+                "displayName": "France Ligue 2",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fran2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 98,
+                "name": "South Africa Premier League",
+                "abbreviation": "S. Africa",
+                "displayName": "South Africa Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "safr"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 99,
+                "name": "Saudi Professional League",
+                "abbreviation": "KSA",
+                "displayName": "Saudi Professional League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ksa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 100,
+                "name": "Qatar Stars League",
+                "abbreviation": "Qatar",
+                "displayName": "Qatar Stars League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "qata"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 101,
+                "name": "Switzerland Super League",
+                "abbreviation": "Swiss Leag",
+                "displayName": "Switzerland Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "swit"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 102,
+                "name": "Sweden Allsvenskan",
+                "abbreviation": "Sweden",
+                "displayName": "Sweden Allsvenskan",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "swed"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 103,
+                "name": "Poland Ekstraklasa",
+                "abbreviation": "Poland",
+                "displayName": "Poland Ekstraklasa",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "pola"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 104,
+                "name": "Israel Ligat ha'Al",
+                "abbreviation": "Israel",
+                "displayName": "Israel Ligat ha'Al",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "isrl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 105,
+                "name": "Ghana Premier League",
+                "abbreviation": "Ghana",
+                "displayName": "Ghana Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ghan"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 106,
+                "name": "Belgium Second Division",
+                "abbreviation": "Belgium 2",
+                "displayName": "Belgium Second Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "belg2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 107,
+                "name": "Bulgaria A PFG",
+                "abbreviation": "Bulgaria",
+                "displayName": "Bulgaria A PFG",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bulg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 108,
+                "name": "UAE Arabian Gulf League",
+                "abbreviation": "AGL",
+                "displayName": "UAE Arabian Gulf League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uae"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 109,
+                "name": "Portugal Liga de Honra",
+                "abbreviation": "Portugal 2",
+                "displayName": "Portugal Liga de Honra",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "port2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 110,
+                "name": "Serbia Super Liga",
+                "abbreviation": "Serbia",
+                "displayName": "Serbia Super Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "serb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 111,
+                "name": "Togo Premier League",
+                "abbreviation": "Togo",
+                "displayName": "Togo Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "togo"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 112,
+                "name": "Angola Girabola",
+                "abbreviation": "Angola",
+                "displayName": "Angola Girabola",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ango"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 113,
+                "name": "Senegal",
+                "abbreviation": "SEN",
+                "displayName": "Senegal",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sen"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 114,
+                "name": "Croatia 1. HNL",
+                "abbreviation": "Croatia",
+                "displayName": "Croatia 1. HNL",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "croa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 115,
+                "name": "Czech Liga",
+                "abbreviation": "Czech",
+                "displayName": "Czech Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "czec"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 116,
+                "name": "Costa Rica Primera Division",
+                "abbreviation": "CRC",
+                "displayName": "Costa Rica Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "crc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 117,
+                "name": "TT Pro League",
+                "abbreviation": "T",
+                "displayName": "TT Pro League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "tt"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 118,
+                "name": "Ecuador Serie A",
+                "abbreviation": "ECU",
+                "displayName": "Ecuador Serie A",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ecu"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 119,
+                "name": "Paraguay Primera Division",
+                "abbreviation": "PAR",
+                "displayName": "Paraguay Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "par"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 120,
+                "name": "Uruguay Primera Division",
+                "abbreviation": "URU",
+                "displayName": "Uruguay Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uru"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 121,
+                "name": "Morocco Botola",
+                "abbreviation": "MAR",
+                "displayName": "Morocco Botola",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mar"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 122,
+                "name": "Brazil Serie B",
+                "abbreviation": "Brazil B",
+                "displayName": "Brazil Serie B",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "brazb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 123,
+                "name": "Gold Cup",
+                "abbreviation": "GCUP",
+                "displayName": "Gold Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gold"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 124,
+                "name": "Egypt Premier League",
+                "abbreviation": "EGY",
+                "displayName": "Egypt Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "egy"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 125,
+                "name": "Kuwait Premier League",
+                "abbreviation": "KUW",
+                "displayName": "Kuwait Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "kuw"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 126,
+                "name": "Russia Premier League",
+                "abbreviation": "Russia",
+                "displayName": "Russia Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "russ"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 127,
+                "name": "Ukraine Premier League",
+                "abbreviation": "UKR",
+                "displayName": "Ukraine Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ukr"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 128,
+                "name": "Austria Bundesliga",
+                "abbreviation": "Austria",
+                "displayName": "Austria Bundesliga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "aut"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 129,
+                "name": "Denmark Superliga",
+                "abbreviation": "DEN",
+                "displayName": "Denmark Superliga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "den"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 130,
+                "name": "Norway Tippeligaen",
+                "abbreviation": "NOR",
+                "displayName": "Norway Tippeligaen",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nor"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 131,
+                "name": "Tunisia Ligue 1",
+                "abbreviation": "TUN",
+                "displayName": "Tunisia Ligue 1",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "tun"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 132,
+                "name": "Mali Premiere Division",
+                "abbreviation": "Mali",
+                "displayName": "Mali Premiere Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mali"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 133,
+                "name": "Romania Liga I",
+                "abbreviation": "Romania",
+                "displayName": "Romania Liga I",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "roma"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 134,
+                "name": "Italy Serie C1",
+                "abbreviation": "IT3",
+                "displayName": "Italy Serie C1",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "seriec1"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 135,
+                "name": "UEFA Europa League",
+                "abbreviation": "Europa",
+                "displayName": "UEFA Europa League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "europa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 136,
+                "name": "Nigeria Premier League",
+                "abbreviation": "Nigeria",
+                "displayName": "Nigeria Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nige"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 137,
+                "name": "Slovakia Super Liga",
+                "abbreviation": "Slovakia",
+                "displayName": "Slovakia Super Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "slova"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 138,
+                "name": "Scotland Championship",
+                "abbreviation": "Scotland 1",
+                "displayName": "Scotland Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot1"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 139,
+                "name": "Scotland League One",
+                "abbreviation": "Scotland 2",
+                "displayName": "Scotland League One",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 140,
+                "name": "Copa Sudamericana",
+                "abbreviation": "SUD",
+                "displayName": "Copa Sudamericana",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sud"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 141,
+                "name": "Confederations Cup",
+                "abbreviation": "CONF",
+                "displayName": "Confederations Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 142,
+                "name": "FIFA U-20 World Cup",
+                "abbreviation": "U-20",
+                "displayName": "FIFA U-20 World Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fifa_u20"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 144,
+                "name": "Japan J2-League",
+                "abbreviation": "J2",
+                "displayName": "Japan J2-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "jlg2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 145,
+                "name": "Yamazaki Nabisco Cup",
+                "abbreviation": "YNC",
+                "displayName": "Yamazaki Nabisco Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ync"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 147,
+                "name": "SuperLiga",
+                "abbreviation": "Super",
+                "displayName": "SuperLiga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "super"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 149,
+                "name": "Scotland League Two",
+                "abbreviation": "Scotland 3",
+                "displayName": "Scotland League Two",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot3"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 150,
+                "name": "England National League",
+                "abbreviation": "ENG Conf",
+                "displayName": "England National League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "eng_conf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 151,
+                "name": "England League Cup",
+                "abbreviation": "ENG LG Cup",
+                "displayName": "England League Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "eng_lg_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 152,
+                "name": "England FA Cup",
+                "abbreviation": "ENG FA Cup",
+                "displayName": "England FA Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "eng_fa_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 153,
+                "name": "German DFB Pokal",
+                "abbreviation": "GER DFBPkl",
+                "displayName": "German DFB Pokal",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ger_dfb_pkl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 154,
+                "name": "German Ligapokal",
+                "abbreviation": "GER LG Pkl",
+                "displayName": "German Ligapokal",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ger_lg_pkl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 155,
+                "name": "Scotland FA Cup",
+                "abbreviation": "SCO FA Cup",
+                "displayName": "Scotland FA Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sco_fa_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 156,
+                "name": "Scotland League Cup",
+                "abbreviation": "SCO LG Cup",
+                "displayName": "Scotland League Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sco_lg_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 157,
+                "name": "Scotland Challenge Cup",
+                "abbreviation": "SCO CH Cup",
+                "displayName": "Scotland Challenge Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sco_ch_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 158,
+                "name": "France Coupe de France",
+                "abbreviation": "FRA Cup",
+                "displayName": "France Coupe de France",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "francup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 159,
+                "name": "Spain Copa del Rey",
+                "abbreviation": "SPA Copa",
+                "displayName": "Spain Copa del Rey",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "spa_copa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 160,
+                "name": "Italy Coppa Italia",
+                "abbreviation": "ITA Coppa",
+                "displayName": "Italy Coppa Italia",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "coppa_ita"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 161,
+                "name": "Dutch KNVB Beker",
+                "abbreviation": "NED KNVB",
+                "displayName": "Dutch KNVB Beker",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ned_knvb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 162,
+                "name": "Belgian Beker van België",
+                "abbreviation": "BEL Beker",
+                "displayName": "Belgian Beker van België",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bel_beker"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 166,
+                "name": "African Cup of Nations",
+                "abbreviation": "ACN",
+                "displayName": "African Cup of Nations",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "acn"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 216,
+                "name": "Xerox Cup",
+                "abbreviation": "XCUP",
+                "displayName": "Xerox Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "xcup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 252,
+                "name": "Germany Bundesliga 3",
+                "abbreviation": "Bundes 3",
+                "displayName": "Germany Bundesliga 3",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bund3"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 253,
+                "name": "AFF Cup",
+                "abbreviation": "AFF",
+                "displayName": "AFF Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "aff"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 254,
+                "name": "Austria Erste Liga",
+                "abbreviation": "Austria 2",
+                "displayName": "Austria Erste Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "aut2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 255,
+                "name": "Brazil Campeonato Carioca",
+                "abbreviation": "Br Carioca",
+                "displayName": "Brazil Campeonato Carioca",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "braz_cc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 256,
+                "name": "Brazil Campeonato Paulista",
+                "abbreviation": "Br Paulsta",
+                "displayName": "Brazil Campeonato Paulista",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "braz_cp"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 257,
+                "name": "Brazil Copa do Brasil",
+                "abbreviation": "Braz Copa",
+                "displayName": "Brazil Copa do Brasil",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "braz_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 258,
+                "name": "Croatian Hrvatski Nogometni",
+                "abbreviation": "Croat Cup",
+                "displayName": "Croatian Hrvatski Nogometni",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "croa_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 259,
+                "name": "Czech Republic Pohar CMFS",
+                "abbreviation": "CLAX",
+                "displayName": "Czech Republic Pohar CMFS",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cmfs"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 260,
+                "name": "Finland Veikkausliiga",
+                "abbreviation": "Finland",
+                "displayName": "Finland Veikkausliiga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "finl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 261,
+                "name": "Finland Ykkonen",
+                "abbreviation": "Finland 2",
+                "displayName": "Finland Ykkonen",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "finl2"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 262,
+                "name": "Greece Cup",
+                "abbreviation": "Greek Cup",
+                "displayName": "Greece Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gree_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 263,
+                "name": "Hungary Magyar Kupa",
+                "abbreviation": "Hngary Cup",
+                "displayName": "Hungary Magyar Kupa",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "hung_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 264,
+                "name": "League of Ireland Premier Division",
+                "abbreviation": "Ireland",
+                "displayName": "League of Ireland Premier Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "irel"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 265,
+                "name": "Israel State Cup",
+                "abbreviation": "Israel Cup",
+                "displayName": "Israel State Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "isrl_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 266,
+                "name": "Korea FA Cup",
+                "abbreviation": "Korean Cup",
+                "displayName": "Korea FA Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "kor_fa_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 267,
+                "name": "Latvia Virsliga",
+                "abbreviation": "Latvia",
+                "displayName": "Latvia Virsliga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "latv"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 268,
+                "name": "Macedonia Prva Liga",
+                "abbreviation": "Macednia",
+                "displayName": "Macedonia Prva Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mac"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 269,
+                "name": "Malaysia Super League",
+                "abbreviation": "MSL",
+                "displayName": "Malaysia Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "msl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 270,
+                "name": "Malaysia Premier League",
+                "abbreviation": "MPL",
+                "displayName": "Malaysia Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mpl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 271,
+                "name": "Mexico Interliga",
+                "abbreviation": "Mexico Cup",
+                "displayName": "Mexico Interliga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "mexi"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 272,
+                "name": "Peru Primera Division",
+                "abbreviation": "Peru",
+                "displayName": "Peru Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "peru"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 273,
+                "name": "Poland I Liga",
+                "abbreviation": "Poland 2",
+                "displayName": "Poland I Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "pol_i"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 274,
+                "name": "Poland Puchkar Ekstraklasy",
+                "abbreviation": "Pol PE Cup",
+                "displayName": "Poland Puchkar Ekstraklasy",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "pol_pe"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 275,
+                "name": "Poland REMES Puchkar Polski",
+                "abbreviation": "Pol REMES",
+                "displayName": "Poland REMES Puchkar Polski",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "pol_remes"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 276,
+                "name": "Portuguese Taca de Liga",
+                "abbreviation": "Por TdLiga",
+                "displayName": "Portuguese Taca de Liga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "port_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 277,
+                "name": "Portuguese Taca de Portugal",
+                "abbreviation": "Por TdPort",
+                "displayName": "Portuguese Taca de Portugal",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "port_tdp"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 278,
+                "name": "Singapore Cup",
+                "abbreviation": "Sing Cup",
+                "displayName": "Singapore Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sing_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 279,
+                "name": "Singapore S. League",
+                "abbreviation": "Sing S",
+                "displayName": "Singapore S. League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "slg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 280,
+                "name": "Turkish Cup",
+                "abbreviation": "Turkey Cup",
+                "displayName": "Turkish Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "turk_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 281,
+                "name": "Olympic Mens Soccer",
+                "abbreviation": "OLY MSOC",
+                "displayName": "Olympic Mens Soccer",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "oly_msoc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 292,
+                "name": "France Coupe de la Ligue",
+                "abbreviation": "FLC",
+                "displayName": "France Coupe de la Ligue",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fran_lg_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 293,
+                "name": "England League Trophy",
+                "abbreviation": "ELT",
+                "displayName": "England League Trophy",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "elt"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 355,
+                "name": "Dutch Nacompetitie",
+                "abbreviation": "Dtch Plyof",
+                "displayName": "Dutch Nacompetitie",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "dtch"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 363,
+                "name": "Scotland Division 1 Playoffs",
+                "abbreviation": "Scot 1 PO",
+                "displayName": "Scotland Division 1 Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot1_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 364,
+                "name": "Scotland Division 2 Playoffs",
+                "abbreviation": "Scot 2 PO",
+                "displayName": "Scotland Division 2 Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot2_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 372,
+                "name": "UEFA U-21 Championship",
+                "abbreviation": "U21 Euro",
+                "displayName": "UEFA U-21 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uefa_u21"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 375,
+                "name": "UAE Etisalat Cup",
+                "abbreviation": "UAE Cup",
+                "displayName": "UAE Etisalat Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uae_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 388,
+                "name": "India I-League",
+                "abbreviation": "India",
+                "displayName": "India I-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "indi"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 389,
+                "name": "India Federation Cup",
+                "abbreviation": "INDFEDCUP",
+                "displayName": "India Federation Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "indf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 390,
+                "name": "Venezuela Primera Division",
+                "abbreviation": "Ven",
+                "displayName": "Venezuela Primera Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "vene"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 403,
+                "name": "AFC Asian Cup",
+                "abbreviation": "AFC CUP",
+                "displayName": "AFC Asian Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afc_acup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 404,
+                "name": "AFC U-19 Championship",
+                "abbreviation": "AFC U19",
+                "displayName": "AFC U-19 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afc_u19"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 405,
+                "name": "AFC U-16 Championship",
+                "abbreviation": "AFC U16",
+                "displayName": "AFC U-16 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afc_u16"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 407,
+                "name": "Belgium Promotion Playoffs",
+                "abbreviation": "Belgium PO",
+                "displayName": "Belgium Promotion Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "belg_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 408,
+                "name": "Germany Bundesliga 1 Playoffs",
+                "abbreviation": "Bund 1 PO",
+                "displayName": "Germany Bundesliga 1 Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bund_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 409,
+                "name": "Switzerland Super League PO",
+                "abbreviation": "Swiss PO",
+                "displayName": "Switzerland Super League PO",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "swis_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 410,
+                "name": "Italy Serie B Playoffs",
+                "abbreviation": "Serie B PO",
+                "displayName": "Italy Serie B Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "serieb_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 420,
+                "name": "Four Associations Tournament",
+                "abbreviation": "FAT",
+                "displayName": "Four Associations Tournament",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fat"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 426,
+                "name": "Germany Bundesliga 2 Playoffs",
+                "abbreviation": "BUND2 PO",
+                "displayName": "Germany Bundesliga 2 Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bund2_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 428,
+                "name": "AFC Pre-Olympic Tournament",
+                "abbreviation": "AFC PREOLY",
+                "displayName": "AFC Pre-Olympic Tournament",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afc_oly"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 429,
+                "name": "Vodacom Challenge",
+                "abbreviation": "VOD",
+                "displayName": "Vodacom Challenge",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "vod"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 436,
+                "name": "US Open Cup",
+                "abbreviation": "US OPEN CP",
+                "displayName": "US Open Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "us_open_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 437,
+                "name": "Japan Emperor's Cup",
+                "abbreviation": "JP EMP CUP",
+                "displayName": "Japan Emperor's Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "jp_emp_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 453,
+                "name": "CONCACAF Olympic Qualifying",
+                "abbreviation": "CON PreOly",
+                "displayName": "CONCACAF Olympic Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conc_preoly"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 455,
+                "name": "North American Soccer League",
+                "abbreviation": "US NASL",
+                "displayName": "North American Soccer League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nasl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 456,
+                "name": "Brazil Serie C",
+                "abbreviation": "Brazil C",
+                "displayName": "Brazil Serie C",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "brazc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 457,
+                "name": "Northern Ireland IFA Premier",
+                "abbreviation": "North Ire",
+                "displayName": "Northern Ireland IFA Premier",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ifap"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 458,
+                "name": "CONMEBOL U-20 Championship",
+                "abbreviation": "CONM U20",
+                "displayName": "CONMEBOL U-20 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conm_u20"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 459,
+                "name": "FIFA Club World Cup",
+                "abbreviation": "FIFA WCC",
+                "displayName": "FIFA Club World Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fifa_club"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 460,
+                "name": "FIFA U-17 World Cup",
+                "abbreviation": "FIFA U17",
+                "displayName": "FIFA U-17 World Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "fifa_u17"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 461,
+                "name": "CONCACAF U-17 Championship",
+                "abbreviation": "CONC U17",
+                "displayName": "CONCACAF U-17 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conc_u17"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 462,
+                "name": "CONCACAF U-20 Championship",
+                "abbreviation": "CONC U20",
+                "displayName": "CONCACAF U-20 Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conc_u20"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 463,
+                "name": "CONCACAF Champions League",
+                "abbreviation": "CONC Chmps",
+                "displayName": "CONCACAF Champions League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conc_chlg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 465,
+                "name": "Copa Argentina",
+                "abbreviation": "COPA Arg",
+                "displayName": "Copa Argentina",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "copa_arg"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 466,
+                "name": "Olympic Womens Soccer",
+                "abbreviation": "OLY WSOC",
+                "displayName": "Olympic Womens Soccer",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "oly_wsoc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 467,
+                "name": "Recopa Sudamericana",
+                "abbreviation": "RECOPA SUD",
+                "displayName": "Recopa Sudamericana",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "recopa_sud"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 468,
+                "name": "Algeria Ligue 1",
+                "abbreviation": "ALGR",
+                "displayName": "Algeria Ligue 1",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "algr"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 469,
+                "name": "Jordan Premier League",
+                "abbreviation": "JORD",
+                "displayName": "Jordan Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "jord"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 483,
+                "name": "Club Friendlies",
+                "abbreviation": "CLUB EXH",
+                "displayName": "Club Friendlies",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cif"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 493,
+                "name": "Gulf Cup",
+                "abbreviation": "GULF Cup",
+                "displayName": "Gulf Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gulf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 499,
+                "name": "Sweden Allsvenskan Playoffs",
+                "abbreviation": "SWEDEN PO",
+                "displayName": "Sweden Allsvenskan Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "swed_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 500,
+                "name": "Saudi King Cup of Champions",
+                "abbreviation": "SK CUP",
+                "displayName": "Saudi King Cup of Champions",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "skc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 501,
+                "name": "Saudi Crown Prince Cup",
+                "abbreviation": "SCP CUP",
+                "displayName": "Saudi Crown Prince Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scp"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 504,
+                "name": "Algarve Cup",
+                "abbreviation": "Algarve",
+                "displayName": "Algarve Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "alga"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 511,
+                "name": "Womens International Exh",
+                "abbreviation": "W INTL EXH",
+                "displayName": "Womens International Exh",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wwc_frnd"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 513,
+                "name": "National Womens Soccer League",
+                "abbreviation": "NWSL",
+                "displayName": "National Womens Soccer League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nwsl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 524,
+                "name": "Qatar Premier League Playoffs",
+                "abbreviation": "QATAR PO",
+                "displayName": "Qatar Premier League Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "qata_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 533,
+                "name": "South Africa Premier League PO",
+                "abbreviation": "SA PO",
+                "displayName": "South Africa Premier League PO",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "safr_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 534,
+                "name": "Egypt Cup",
+                "abbreviation": "EGY CUP",
+                "displayName": "Egypt Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "egy_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 535,
+                "name": "Scotland Playoffs",
+                "abbreviation": "SCOT PO",
+                "displayName": "Scotland Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "scot_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 546,
+                "name": "European Championships Qualifying",
+                "abbreviation": "EURO QUAL",
+                "displayName": "European Championships Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "euro_qual"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 547,
+                "name": "OCEANIA WC Qualifying",
+                "abbreviation": "OCNAWCQF",
+                "displayName": "OCEANIA WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ocnawcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 548,
+                "name": "CONCAFAF WC Qualifying",
+                "abbreviation": "CNCFWCQF",
+                "displayName": "CONCAFAF WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cncfwcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 549,
+                "name": "AFRICA WC Qualifying",
+                "abbreviation": "AFCWCQF",
+                "displayName": "AFRICA WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "afcwcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 550,
+                "name": "UEFA WC Qualifying",
+                "abbreviation": "UEFAWCQF",
+                "displayName": "UEFA WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uefawcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 551,
+                "name": "ASIA WC Qualifying",
+                "abbreviation": "ASIAWCQF",
+                "displayName": "ASIA WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "asiawcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 552,
+                "name": "CONMEBOL WC Qualifying",
+                "abbreviation": "CMBLWCQF",
+                "displayName": "CONMEBOL WC Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cmblwcqf"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 553,
+                "name": "Indonesia Soccer Championship",
+                "abbreviation": "INDO",
+                "displayName": "Indonesia Soccer Championship",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "indo"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 554,
+                "name": "Thailand Premier League",
+                "abbreviation": "THAI PL",
+                "displayName": "Thailand Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "thai"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 555,
+                "name": "Vietnam V.League",
+                "abbreviation": "VIET",
+                "displayName": "Vietnam V.League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "viet"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 556,
+                "name": "Philippines UFL",
+                "abbreviation": "PUFL",
+                "displayName": "Philippines UFL",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "pufl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 557,
+                "name": "Hong Kong First Division",
+                "abbreviation": "HK1",
+                "displayName": "Hong Kong First Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "hk1"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 558,
+                "name": "Lithuania A Lyga",
+                "abbreviation": "LITH A",
+                "displayName": "Lithuania A Lyga",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "lith"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 559,
+                "name": "New Zealand FC",
+                "abbreviation": "NZFC",
+                "displayName": "New Zealand FC",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nzfc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 583,
+                "name": "CAF Confederation Cup",
+                "abbreviation": "CAFCUP",
+                "displayName": "CAF Confederation Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cafcup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 584,
+                "name": "Asian Games Men",
+                "abbreviation": "AG Men",
+                "displayName": "Asian Games Men",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "agmen"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 585,
+                "name": "Asian Games Women",
+                "abbreviation": "AG Women",
+                "displayName": "Asian Games Women",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "agwomen"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 586,
+                "name": "India Super League",
+                "abbreviation": "India SL",
+                "displayName": "India Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "india_sl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 587,
+                "name": "International Exhibitions",
+                "abbreviation": "NATL FRND",
+                "displayName": "International Exhibitions",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "natl_frnd"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 588,
+                "name": "CONCACAF Women's Championship ",
+                "abbreviation": "CONC WChmp",
+                "displayName": "CONCACAF Women's Championship ",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "concwchmp"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 589,
+                "name": "African Cup of Nations Qualifying",
+                "abbreviation": "ACN Qual",
+                "displayName": "African Cup of Nations Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "acn_qual"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 592,
+                "name": "Womens International Tournament of Brazil",
+                "abbreviation": "WITB",
+                "displayName": "Womens International Tournament of Brazil",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "witb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 594,
+                "name": "WC Inter-Confederation Playoffs",
+                "abbreviation": "NATL_WCQ_ICPLY",
+                "displayName": "WC Inter-Confederation Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "wcicpo"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 595,
+                "name": "Belgium Super Cup",
+                "abbreviation": "BEL Super",
+                "displayName": "Belgium Super Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "belsuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 596,
+                "name": "Argentina Supercopa Argentina",
+                "abbreviation": "ARG Super",
+                "displayName": "Argentina Supercopa Argentina",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "argsuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 597,
+                "name": "Dutch Johan Cruijff Shield",
+                "abbreviation": "NED Shield",
+                "displayName": "Dutch Johan Cruijff Shield",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "nedshield"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 598,
+                "name": "England Community Shield",
+                "abbreviation": "ENG Shield",
+                "displayName": "England Community Shield",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "engshield"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 599,
+                "name": "France Trophee des Champions",
+                "abbreviation": "FRA Super",
+                "displayName": "France Trophee des Champions",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "frasuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 600,
+                "name": "Germany DFL-Supercup",
+                "abbreviation": "GER Super",
+                "displayName": "Germany DFL-Supercup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "gersuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 601,
+                "name": "Italy Supercoppa Italiana",
+                "abbreviation": "ITA Super",
+                "displayName": "Italy Supercoppa Italiana",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "itasuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 602,
+                "name": "Spain Supercopa de Espana",
+                "abbreviation": "SPA Super",
+                "displayName": "Spain Supercopa de Espana",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "spasuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 603,
+                "name": "UAE Super Cup",
+                "abbreviation": "UAE Super",
+                "displayName": "UAE Super Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uaesuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 604,
+                "name": "UEFA Super Cup",
+                "abbreviation": "UEFA Super",
+                "displayName": "UEFA Super Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uefasuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 605,
+                "name": "African Super Cup",
+                "abbreviation": "CAF_SUPER",
+                "displayName": "African Super Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "caf_super"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 606,
+                "name": "Japan J-League Playoffs",
+                "abbreviation": "JLeague PO",
+                "displayName": "Japan J-League Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "jleague_po"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 614,
+                "name": "International Champions Cup",
+                "abbreviation": "INTL_CHAMP",
+                "displayName": "International Champions Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "intl_champ"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 616,
+                "name": "Finland Veikkausliiga Playoffs",
+                "abbreviation": "Fin PO",
+                "displayName": "Finland Veikkausliiga Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "finl_ply"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 621,
+                "name": "CONCACAF Olympic Women Qualifying",
+                "abbreviation": "WCONC_PREOLY",
+                "displayName": "CONCACAF Olympic Women Qualifying",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "conwpoly"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 626,
+                "name": "SheBelieves Cup",
+                "abbreviation": "SBC",
+                "displayName": "SheBelieves Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sbc"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 627,
+                "name": "Japan J3-League",
+                "abbreviation": "JLG3",
+                "displayName": "Japan J3-League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "j3"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 638,
+                "name": "Africa U-20 Cup of Nations",
+                "abbreviation": "CAF U20",
+                "displayName": "Africa U-20 Cup of Nations",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "cafu20"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 699,
+                "name": "South Africa Diski Challenge",
+                "abbreviation": "SA Diski",
+                "displayName": "South Africa Diski Challenge",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sa_diski"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 705,
+                "name": "South Africa FA Cup",
+                "abbreviation": "SA FA Cup",
+                "displayName": "South Africa FA Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sa_fa_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 707,
+                "name": "South Africa KnockOut Cup",
+                "abbreviation": "SA KO Cup",
+                "displayName": "South Africa KnockOut Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sa_ko_cup"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 709,
+                "name": "South Africa MTN8 Wafa Wafa Cup",
+                "abbreviation": "WafaWafa",
+                "displayName": "South Africa MTN8 Wafa Wafa Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sa_wafa"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 710,
+                "name": "South Africa National First Division",
+                "abbreviation": "SA 1st Div",
+                "displayName": "South Africa National First Division",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "sa_nfd"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 729,
+                "name": "Women's UEFA Champions League",
+                "abbreviation": "UEFAWCL",
+                "displayName": "Women's UEFA Champions League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "uefa_w_cl"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 736,
+                "name": "Zimbabwe Premier League",
+                "abbreviation": "ZIM PL",
+                "displayName": "Zimbabwe Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "zimb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 742,
+                "name": "Spain Liga Segunda B",
+                "abbreviation": "Segunda B",
+                "displayName": "Spain Liga Segunda B",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "segu"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 753,
+                "name": "Egypt Super Cup",
+                "abbreviation": "EGY Super",
+                "displayName": "Egypt Super Cup",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "egysuper"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 777,
+                "name": "Kenya Premier League",
+                "abbreviation": "Kenya",
+                "displayName": "Kenya Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "kenya"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 778,
+                "name": "Mozambique Mocambola",
+                "abbreviation": "Mozambique",
+                "displayName": "Mozambique Mocambola",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "moza"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 779,
+                "name": "Botswana Premier League",
+                "abbreviation": "Botswana",
+                "displayName": "Botswana Premier League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "bots"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 781,
+                "name": "Zambia Super League",
+                "abbreviation": "Zambia",
+                "displayName": "Zambia Super League",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "zamb"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 794,
+                "name": "Ghana Super 6",
+                "abbreviation": "Ghana 6",
+                "displayName": "Ghana Super 6",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "ghan_super6"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 798,
+                "name": "Spain Division de Honor Juvenil",
+                "abbreviation": "Div Honor",
+                "displayName": "Spain Division de Honor Juvenil",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "spa_honor_juv"
+                }]
+            }
+        }, {
+            "league": {
+                "leagueId": 801,
+                "name": "Bulgaria Playoffs",
+                "abbreviation": "BULGPO",
+                "displayName": "Bulgaria Playoffs",
+                "uriPaths": [{
+                    "pathSequence": 1,
+                    "path": "blg_po"
+                }]
+            }
+        }]
+    }]
+}
