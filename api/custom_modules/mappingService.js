@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 
 module.exports.run = () => {
-  mapTeams();
+  mapTeams(mapPlayers());
 }
 
 const httpOptions = {
@@ -10,7 +10,7 @@ const httpOptions = {
   port: 20000
 }
 
-var mapTeams = () => {
+var mapTeams = (cb) => {
   http.get(httpPath('/stats/soccer/epl/teams'), (statRes) => {
     var body = "";
 
@@ -29,17 +29,60 @@ var mapTeams = () => {
         nameMapping[team.displayName] = team.teamId;
       }
 
-      fs.writeFile('mappings/teamIds.json', JSON.stringify(ids), () => {
-        console.log('written teamIds.json');
-      });
+      writeMappingFile('teamIds.json', ids);
+      writeMappingFile('teamAbvMapping.json', abvMapping);
+      writeMappingFile('teamNameMapping.json', nameMapping);
 
-      fs.writeFile('mappings/teamAbvMapping.json', JSON.stringify(abvMapping), () => {
-        console.log('written teamAbvMapping.json');
-      });
+      if(cb){
+        cb();
+      }
+    });
+  }).end();
+};
 
-      fs.writeFile('mappings/teamNameMapping.json', JSON.stringify(nameMapping), () => {
-        console.log('written teamNameMapping.json');
-      });
+var mapPlayers = (cb) =>{
+  http.get(httpPath('/stats/soccer/epl/participants'), (statRes) => {
+    var body = '';
+
+    statRes.on('data', (chunk) => {
+      body = body + chunk;
+    });
+
+    statRes.on('end', () => {
+      var players = JSON.parse(body).apiResults[0].league.players;
+
+      var id = {ids: []};
+      var abvMapping = {};
+      var teamMapping = {};
+      var teamIdMapping = {};
+
+      for(player of players){
+        id.ids.push(player.playerId);
+
+        if(!abvMapping[player.team.abbreviation]){
+          abvMapping[player.team.abbreviation] = [];
+        }
+        abvMapping[player.team.abbreviation].push(player);
+
+        if(!teamMapping[player.team.displayName]){
+          teamMapping[player.team.displayName] = [];
+        }
+        teamMapping[player.team.displayName].push(player);
+
+        if(!teamIdMapping[player.team.teamId]){
+          teamIdMapping[player.team.teamId] = [];
+        }
+        teamIdMapping[player.team.teamId].push(player);
+      }
+
+      writeMappingFile('playerIds.json', id);
+      writeMappingFile('playerAbvMapping.json', abvMapping);
+      writeMappingFile('playerTeamMapping.json', teamMapping);
+      writeMappingFile('playerTeamIdMapping.json', teamIdMapping);
+
+      if(cb){
+        cb();
+      }
     });
   }).end();
 };
@@ -51,3 +94,9 @@ var httpPath = (subpath) => {
 
   return newOptions;
 };
+
+var writeMappingFile = (fileName, object) => {
+  fs.writeFile('mappings/' + fileName, JSON.stringify(object), () => {
+    console.log('written ' + fileName);
+  });
+}
